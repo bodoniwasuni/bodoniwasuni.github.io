@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodoniwasuni.github.io/sitemap.xml
